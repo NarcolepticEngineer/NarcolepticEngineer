@@ -13,8 +13,8 @@
   
 🛠️ I'm building, making, and creating ...
   - Using my new 3d printer, the [Creator 3 Pro](https://www.flashforge.com/product-detail/flashforge-creator-3-pro-3d-printer)
-  - Version 3.0 of my electric remote-controlled lawnmower. (*Designation: **Cuttra Princess of Plains***)
-  - On building a 16ft travel trailer in my driveway, design inspired by *The Lord of the Rings*
+  - On the lawn, walking alongside Version 3.0 of my electric remote-controlled lawnmower. (*Designation: **Cuttra Princess of Plains***)
+  - In my driveway, building a 16ft travel trailer, design inspired by *The Lord of the Rings*
 
 🌱 I’m currently learning ...
   - How to use Google Scripts to automate energy reporting
