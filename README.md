@@ -24,6 +24,7 @@
 📫 To reach me: ...
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-elliott/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByD7wHkFCS2mGUFjsEkW5GQ%3D%3D)!
   - Email me at [paige@elliottbuilt.com](mailto:paige@elliottbuilt.net?subject=Really%20Awesome%20Job%20Offer)!
+  - Or via the [issues section](https://github.com/NarcolepticEngineer/NarcolepticEngineer/issues) of this repository!
 
 
 
