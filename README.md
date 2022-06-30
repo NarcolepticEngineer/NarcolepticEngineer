@@ -18,7 +18,7 @@
   - In my driveway, building a 16ft travel trailer, design inspired by *The Lord of the Rings*
 
 🌱 I’m currently learning ...
-  - How to use Google Scripts to automate energy reporting
+  - How to use Google Scripts to automate report compiliation and generation.
   - How to use my iPad pro to make paintings
   - How to run with my [puppers](https://www.akc.org/dog-breeds/australian-shepherd/) without getting dragged down the trail
 
