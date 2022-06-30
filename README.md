@@ -10,6 +10,7 @@
 
 🔭 I’m currently working ...
   - @ [Intelligent Buildings](https://www.intelligentbuildings.com/) as a consultant for [The General Services Administration](https://www.gsa.gov/)
+  - On figuring out how to build out my website: [elliottbuilt.net](https://elliottbuilt.net/)
   
 🛠️ I'm building, making, and creating ...
   - Using my new 3d printer, the [Creator 3 Pro](https://www.flashforge.com/product-detail/flashforge-creator-3-pro-3d-printer)
@@ -22,8 +23,9 @@
   - How to run with my [puppers](https://www.akc.org/dog-breeds/australian-shepherd/) without getting dragged down the trail
 
 📫 To reach me: ...
+  - Visit my portfolio! [portfolio.elliottbuilt.net](https://portfolio.elliottbuilt.net/)
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-elliott/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByD7wHkFCS2mGUFjsEkW5GQ%3D%3D)!
-  - Email me at [paige@elliottbuilt.net](mailto:paige@elliottbuilt.net?subject=Really%20Awesome%20Job%20Offer)!
+  - Email me at [elliottpt1@gmail.com](mailto:elliottpt1@gmail.com?subject=Really%20Awesome%20New%20Connection%20from%20GitHub!)!
   - Or via the [issues section](https://github.com/NarcolepticEngineer/NarcolepticEngineer/issues) of this repository!
 
 
