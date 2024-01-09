@@ -13,7 +13,7 @@ Contact me: &nbsp;&nbsp;&nbsp;
 
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Maki7-city-white.svg" height="20" width="20" /></a>&nbsp;
-I’m currently working @ [Bernhard](https://bernhard.com/) as a software developer for SkySpark
+I’m currently working at Bernhard as a software developer for SkySpark
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Documents_icon_-_noun_project_5020_-_white.svg" height="20" width="20" /></a>&nbsp;
 I'm building, making, and creating constantly:
