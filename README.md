@@ -1,35 +1,29 @@
-### Hi there 👋
-
-
 <!--
+### Hi there 👋
 **NarcolepticEngineer/NarcolepticEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Contact me: &nbsp;&nbsp;&nbsp;
+<a href="mailto:elliottpt1@gmail.com?subject=Awesome%20Connection%20from%20GitHub!" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/OOjs_UI_icon_message-invert.svg" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/pt-elliott/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white/" height="20" width="20" /></a>
+<a href="https://portfolio.elliottbuilt.net/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Bookmark-solid-white.svg" height="20" width="20" /></a>&nbsp;
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NarcolepticEngineer.NarcolepticEngineer)
+---
 
-
-🔭 I’m currently working ...
-  - @ [Intelligent Buildings](https://www.intelligentbuildings.com/) as a consultant for [The General Services Administration](https://www.gsa.gov/)
-  - On figuring out how to build out my website: [elliottbuilt.net](https://elliottbuilt.net/)
-  
-🛠️ I'm building, making, and creating ...
-  - Using my new 3d printer, the [Creator 3 Pro](https://www.flashforge.com/product-detail/flashforge-creator-3-pro-3d-printer)
-  - On the lawn, walking alongside Version 3.0 of my electric remote-controlled lawnmower. (*Designation: **Cuttra Princess of Plains***)
-  - In my driveway, building a 16ft travel trailer, design inspired by *The Lord of the Rings*
-
-🌱 I’m currently learning ...
-  - How to use Google Scripts to automate report compiliation and generation.
-  - How to use my iPad pro to make paintings
-  - How to run with my [puppers](https://www.akc.org/dog-breeds/australian-shepherd/) without getting dragged down the trail
-
-📫 To reach me: ...
-  - Visit my portfolio! [portfolio.elliottbuilt.net](https://portfolio.elliottbuilt.net/)
-  - Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-elliott/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByD7wHkFCS2mGUFjsEkW5GQ%3D%3D)!
-  - Email me at [elliottpt1@gmail.com](mailto:elliottpt1@gmail.com?subject=Really%20Awesome%20New%20Connection%20from%20GitHub!)!
-  - Or via the [issues section](https://github.com/NarcolepticEngineer/NarcolepticEngineer/issues) of this repository!
+### <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Compass_2_Flat_Icon_GIF_Animation.gif" height="50" width="50" /></a>&nbsp;  Welcome!
 
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Maki7-city-white.svg" height="20" width="20" /></a>&nbsp;
+I’m currently working @ [Bernhard](https://bernhard.com/) as a software developer for SkySpark
 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Documents_icon_-_noun_project_5020_-_white.svg" height="20" width="20" /></a>&nbsp;
+I'm building, making, and creating constantly:
+  - 3D printing and modeling
+  - Tinkering with electrical hardware systems
+  - Inventing, building & fabricating my ideas
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarcolepticEngineer&layout=donut&text_color=A9A9A9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 👯 I’m looking to collaborate on ...
