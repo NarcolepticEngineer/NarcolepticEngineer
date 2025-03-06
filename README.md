@@ -4,7 +4,7 @@
 -->
 Contact me: &nbsp;&nbsp;&nbsp;
 <a href="mailto:elliottpt1@gmail.com?subject=Awesome%20Connection%20from%20GitHub!" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/OOjs_UI_icon_message-invert.svg" height="20" width="20" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/pt-elliott/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/pt-elliott/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" height="20" width="20" /></a>
 <a href="https://portfolio.elliottbuilt.net/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Bookmark-solid-white.svg" height="20" width="20" /></a>&nbsp;
 
 ---
